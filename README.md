@@ -1,7 +1,7 @@
 # classic_projects
 Projects done by Collins.
 
-The first project is on prediction of tweets that are real disaster or not. The data was provided by Kaggle.Train and test data are attached as train and test csv files. The result of my prediction is in submission file. 
+The first project is on prediction of tweets that are real disaster or not. The data was provided by Kaggle.Train and test datasets are attached as train and test csv files. The result of my prediction is in submission file. 
 
 The second is a project on sentiment analysis of reviews, I recieved from an app we developed. An extract from the review was used for this analysis. The aim is to get the total number of positive and negative comments as well as generate positive and negative comments from the reviews.
 
