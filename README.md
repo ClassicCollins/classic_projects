@@ -7,6 +7,8 @@ The second is a project (sentiment_analysis_of_CollinsApp) on sentiment analysis
 
 While the third is an investment adviser (CompareStocks).It was developed during my MSc. program in Finacial Engineering with WQU. It's to help investors make an informed decision when choosing stocks to buy.The aim is to enable traders and investors to download and visualize historical financial data. Compare volatility and returns and make an informed decision on the best security to invest. Please, be informed the data is based on past historical data from yahoo Finance and does not guarantee it will same return and volatility in the future.
 
-The fourth is a Mortgage calculator. it requires user to input the principal, rate and term of loan. It use the imput to calculate the amrotization of the loan.
+The fourth is a Mortgage calculator. it requires user to input the principal, rate and term of loan. It uses the input to loan amrotization.
 
 Thanks for checking it out. Your contributions and suggestions will be deeply appreciated.
+
+ugwuozorcollinsemezie@gmail.com
