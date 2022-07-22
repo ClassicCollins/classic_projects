@@ -9,6 +9,6 @@ While the third is an investment adviser (CompareStocks).It was developed during
 
 The fourth is a Mortgage calculator. it requires user to input the principal, rate and term of loan. It uses the input for loan amortization.
 
-Thanks for checking it out. Your contributions and suggestions will be deeply appreciated.
+Thanks for checking it out. Your contributions & suggestions will be deeply appreciated.
 
 ugwuozorcollinsemezie@gmail.com
