@@ -1,8 +1,6 @@
-pip install streamlit
-pip install yfinance
-import yfinance as yf
 import streamlit as st
 import pandas as pd
+import yahoofinance as yf
 
 
 st.write(""""
