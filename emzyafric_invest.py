@@ -1,4 +1,6 @@
+python -m pip install-r
 import streamlit as st
+import yfinance as yf
 import pandas as pd
 
 
