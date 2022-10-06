@@ -25,8 +25,7 @@ your worry.Well, it depends on a lot of factors
 2. **Your Age:** when you are young, we suggest 90% of your investment fund in stocks is good, and 10% in bonds.Crypto may come in depending on your risk appetite. As you approach retirement, increase your allocation to bonds.
 \
 
-3. **Timing:** we observed many people invest during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high.The great
-thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
+3. **Timing:** we observed many people invest during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high. The great thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
 \
 
 4. **Picking the right stock:** This is where you need professional services. Both fundamental and technical analysis need to be carried out. 
@@ -80,8 +79,8 @@ startDay = endDay - relativedelta(days=days, weeks = weeks, months = months)
 tickerDf = tickerData.history(start=startDay, end=endDay, interval=timeDf[timeChoiceSlider][2])
 
 st.write("""
-Shown are the stock opening, closing, high, low, and volume on the day for %s.
-""" % companyName)
+Shown are the stock price opening, closing, high, low, and volume on the day for %s.
+""" **% companyName**)
 
 #Open Price graphed
 st.write("""
