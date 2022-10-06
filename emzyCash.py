@@ -79,8 +79,8 @@ startDay = endDay - relativedelta(days=days, weeks = weeks, months = months)
 tickerDf = tickerData.history(start=startDay, end=endDay, interval=timeDf[timeChoiceSlider][2])
 
 st.write("""
-Shown are the stock price opening, closing, high, low, and volume on the day for %s.
-""" **% companyName**)
+Shown are the stock price **opening**, **closing**, **high**, **low**, and **volume** on the day for %s.
+""" % companyName)
 
 #Open Price graphed
 st.write("""
