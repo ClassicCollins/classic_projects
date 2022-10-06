@@ -87,6 +87,10 @@ st.write("""
 ### Opening Price
 """)
 st.line_chart(tickerDf.Open)
+stock_price = tickerDf.Open[-1] - tickerDf.Open[0]
+st.write("""
+You would have made a profit or loss $ %s if you had invested this in real life.
+""" % stock_price)
 
 #High Price graphed
 st.write("""
@@ -115,7 +119,7 @@ st.line_chart(tickerDf.Volume)
 st.write("""
 ### Disclaimer:
 *The best investment you can make with your money is to invest in yourself and in your knowledge. 
-Make sure that you understand our disruptive future ahead before investing. We will not be liable for any lost in
+Make sure that you understand our disruptive future ahead before investing. We will not be liable for any lost of money in
 investment*
 """)
 
