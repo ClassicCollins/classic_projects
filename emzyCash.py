@@ -19,22 +19,19 @@ Fell free to contact us at **ugwuozorcollinsemezie@gmail.com**
 If you are still in doubt,not sure if stock is the right investment for you.Never worry, we do our best to clear
 your worry.Well, it depends on a lot of factors
 \
-1. **Your risk appetite:** stock is less risky asset than crypto but more risky than bond. However,
-you should understand the higher the risk of loosing your investment, the higher the chances of doubling your investment.
+1. **Your risk appetite:** stock is less risky asset than crypto but more risky than bond.However,you should understand the higher the risk of loosing your investment, the higher the chances of doubling your investment.
 \
 
-2. **Your Age:** when you are young, we suggest 90% of your investment fund in stocks is good, and 10% in bonds.
-Crypto may come in depending on your risk appetite. As you approach retirement, increase your allocation to bonds.
+2. **Your Age:** when you are young, we suggest 90% of your investment fund in stocks is good, and 10% in bonds.Crypto may come in depending on your risk appetite. As you approach retirement, increase your allocation to bonds.
 \
 
-3. **Timing:** we observed many people invest during bull markets (when stock market is booming) and sell during
-crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high.The great
-thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the
-side for long-term growth.
+3. **Timing:** we observed many people invest during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high.The great
+thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
 \
 
-4. **Picking the right stock:** This is where you need professional services. Both fundamental and technical analysis
-need to be carried out. There are a lot of other factors which can not be discussed in details here. 
+4. **Picking the right stock:** This is where you need professional services. Both fundamental and technical analysis need to be carried out. 
+
+There are a lot of other factors which can not be discussed in details here. 
 feel free to connect with us **ugwuozorcollinsemezie@gmail.com** or whatsapp **+2348180094419**
 \
 I now invite you to check out our demo what is would be if you had invested in any of the company of your choice in the 
