@@ -110,8 +110,8 @@ st.line_chart(tickerDf.Close)
 st.line_chart(tickerDf.Close)
 stock_price = tickerDf.Close[-1] - tickerDf.Close[0]
 st.write("""
-### Summary (+ve means profit, -ve means loss)
-You would have made a profit or loss of $%s multiply the number of shares you bought if you had invested in %s in real life at the time you selecte. Contact us ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit 
+### Summary (-ve sign before the amount means loss )
+You would have made a profit or loss of $%.2f multiply the number of shares you would have bought if you had invested in %s in real life at the time you selected. Contact us ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit 
 """ % (stock_price,companyName))
 
 #Volume graphed
