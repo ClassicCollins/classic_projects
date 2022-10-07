@@ -34,13 +34,12 @@ There are a lot of other factors which can not be discussed in details here.
 feel free to connect with us **ugwuozorcollinsemezie@gmail.com** or whatsapp **+2348180094419**
 \
 
-I now invite you to check out our demo what it would be if you had invested in any of the companies of your choice in the 
+I now invite you to check out our demo. Observe What it would have been if you had invested in any of the companies of your choice in the 
 time past.
 \
 
-Enter a **ticker symbol** of any of the company you wished you had invested in the text box. eg. GOOGL for Google, TSLA for Tesla, 
-AAPL for Apple, etc. Use the slider to choose a **time interval** type the amount of time back from today that you
-want to observe.(Time you wished you had invested in the company)
+Enter a **ticker symbol** of any of the company you wished you had invested in the text box. eg. **GOOGL** for Google, **TSLA** for Tesla, 
+**AAPL** for Apple, etc. Use the slider to choose a **time interval** adjust the time to suit interval you want to observe.(Time you wished you had invested in the company)
 """)
 
 timeChoices = {'Daily':['Days',365,'1d'],'Weekly':['Weeks',104,'1wk'],'Monthly':['Months',60,'1mo'],'Quarterly':['Quarters',48,'3mo']}
