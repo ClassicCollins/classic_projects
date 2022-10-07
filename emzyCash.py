@@ -30,7 +30,7 @@ your worry.Well, it depends on a lot of factors
 
 4. **Picking the right stock:** This is where you need professional services. Both fundamental and technical analysis need to be carried out. 
 
-There are a lot of other factors which can not be discussed in details here. 
+There are a lot of other factors which cannot be discussed in details here. 
 feel free to connect with us **ugwuozorcollinsemezie@gmail.com** or whatsapp **+2348180094419**
 \
 
