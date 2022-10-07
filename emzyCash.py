@@ -49,7 +49,7 @@ timeChoices = {'Daily':['Days',365,'1d'],'Weekly':['Weeks',104,'1wk'],'Monthly':
 timeDf = pd.DataFrame(timeChoices)
 
 # This takes input from the user on which stock ticker that they would like to look at and gives a sliding scale to choose how much data to look back at in months
-tickerSymbol = st.text_input("Enter a ticker symbol: ", "TSLA")
+tickerSymbol = st.text_input("Enter a ticker symbol: ", "AAPL")
 timeChoiceSlider = st.select_slider("Choose the type of data you would like to pull: ", options=["Daily", "Weekly", "Monthly", "Quarterly"])
 timeSlider = st.slider("Number of Previous %s" % timeDf[timeChoiceSlider][0], min_value=1, max_value = timeDf[timeChoiceSlider][1], value = timeDf[timeChoiceSlider][1], step = 1)
 
