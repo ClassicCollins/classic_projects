@@ -124,7 +124,7 @@ st.write("""
 ### Disclaimer:
 *The best investment you can make with your money is to invest in yourself and in your knowledge. 
 Make sure that you understand our disruptive future ahead before investing. We will not be liable for any lost of money in
-investment*
+your investment*
 """)
 
 
