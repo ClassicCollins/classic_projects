@@ -111,7 +111,7 @@ st.line_chart(tickerDf.Close)
 
 st.line_chart(tickerDf.Close)
 gain = tickerDf.Close[-1] - tickerDf.Close[0]
-profit_n_loss = stock_price * 100
+profit_n_loss = gain * 100
 st.write("""
 ### Summary (-ve sign before the amount means loss )
 You would have made a profit or loss of $%.2f multiply the number of shares you would have bought at %.2f dollar per share  if you had invested in %s in real life at the time you selected.
