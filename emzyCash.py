@@ -8,9 +8,9 @@ from matplotlib import pyplot as plt
 
 
 
-#image = Image.open("https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg")
+#image = Image.open("profile_pic.jpg")
 #st.image(image, caption='Think EmzyCash, Think Easy Cash')
-st.image("profile_pic.jpg", caption='Think EmzyCash, Think Easy Cash')
+st.image("profile_pic.jpg", caption='Think Easy Cash, Think EmzyCash', clamp=True)
 # Caption
 st.write("""
 # EmzyCash:
