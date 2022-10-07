@@ -116,7 +116,7 @@ st.write("""
 ### Summary (-ve sign before the amount means loss )
 You would have made a profit or loss of $%.2f multiplied by the number of shares you would have bought at %.2f dollar per share if you had invested in %s in real life at the time you selected.
 
-Assuming you bought 100 shares of %s ,. You would have made $%.2f in your investment between the time you selected and now. you can observe a longer timeframe by sliding on timeslider to qurterly position 
+Assuming you bought 100 shares of %s ,. You would have made $%.2f in your investment between the time you selected and now. you can observe a longer timeframe by sliding on timeslider to quarterly position 
 
 Contact us @ ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit.  
 """ % (gain,tickerDf.Close[0],companyName,companyName,profit_n_loss))
