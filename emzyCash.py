@@ -39,7 +39,7 @@ time past.
 \
 
 Enter a **ticker symbol** of any of the company you wished you had invested in the text box.(only for companies listed on Yahoo finance eg. **GOOGL** for Google, **TSLA** for Tesla, 
-**AAPL** for Apple, etc. Use the slider to choose a **time interval** adjust the time to suit interval you want to observe.(Time you wished you had invested in the company)
+**AAPL** for Apple, etc.) Use the slider to choose a **time interval** adjust the time to suit interval you want to observe.(Time you wished you had invested in the company)
 
 **Note:** You can link a brokerage account in Yahoo Finance for web. Once done, you can buy or sell stock in Yahoo Finance for web.
 """)
@@ -112,7 +112,8 @@ st.line_chart(tickerDf.Close)
 stock_price = tickerDf.Close[-1] - tickerDf.Close[0]
 st.write("""
 ### Summary (-ve sign before the amount means loss )
-You would have made a profit or loss of $%.2f multiply the number of shares you would have bought at %.2f per share  if you had invested in %s in real life at the time you selected. Contact us ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit 
+You would have made a profit or loss of $%.2f multiply the number of shares you would have bought at %.2f per share  if you had invested in %s in real life at the time you selected.
+Contact us @ ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit.  
 """ % (stock_price,tickerDf.Close[0],companyName))
 
 #Volume graphed
