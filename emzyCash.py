@@ -33,13 +33,14 @@ your worry.Well, it depends on a lot of factors
 There are a lot of other factors which can not be discussed in details here. 
 feel free to connect with us **ugwuozorcollinsemezie@gmail.com** or whatsapp **+2348180094419**
 \
-I now invite you to check out our demo what is would be if you had invested in any of the company of your choice in the 
+
+I now invite you to check out our demo what it would be if you had invested in any of the companies of your choice in the 
 time past.
 \
 
-Enter a **ticker symbol** of any of the stock you want to examine in the text box. eg. GOOGL for Google, TSLA for Tesla, 
+Enter a **ticker symbol** of any of the company you wished you had invested in the text box. eg. GOOGL for Google, TSLA for Tesla, 
 AAPL for Apple, etc. Use the slider to choose a **time interval** type the amount of time back from today that you
-want to observe.
+want to observe.(Time you wished you had invested in the company)
 """)
 
 timeChoices = {'Daily':['Days',365,'1d'],'Weekly':['Weeks',104,'1wk'],'Monthly':['Months',60,'1mo'],'Quarterly':['Quarters',48,'3mo']}
@@ -86,11 +87,7 @@ Shown are the stock price **opening**, **closing**, **high**, **low**, and **vol
 st.write("""
 ### Opening Price
 """)
-st.line_chart(tickerDf.Open)
-stock_price = tickerDf.Open[-1] - tickerDf.Open[0]
-st.write("""
-You would have made a profit or loss $ %s if you had invested this in real life.
-""" % stock_price)
+
 
 #High Price graphed
 st.write("""
@@ -109,6 +106,13 @@ st.write("""
 ### Closing Price
 """)
 st.line_chart(tickerDf.Close)
+
+st.line_chart(tickerDf.Close)
+stock_price = tickerDf.Close[-1] - tickerDf.Close[0]
+st.write("""
+### Summary (+ve means profit, -ve means loss)
+You would have made a profit or loss of $%s multiply the number of shares you bought if you had invested in %s in real life at the time you selecte. Contact us ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit 
+""" % stock_price, % companyName)
 
 #Volume graphed
 st.write("""
