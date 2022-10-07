@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 
 #image = Image.open("profile_pic.jpg")
 #st.image(image, caption='Think EmzyCash, Think Easy Cash')
-st.image("profile_pic.jpg", caption='Think Easy Cash, Think EmzyCash', clamp=True)
+st.image("profile_pic.jpg", caption='Think Easy Cash, Think EmzyCash', width=24)
 # Caption
 st.write("""
 # EmzyCash:
