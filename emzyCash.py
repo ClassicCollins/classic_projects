@@ -4,13 +4,13 @@ import pandas as pd
 from datetime import date, datetime
 from dateutil.relativedelta import relativedelta
 from matplotlib import pyplot as plt
-from PIL import Image
+#from PIL import Image
 
 
 
-image = Image.open("https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg")
-st.image(image, caption='Think EmzyCash, Think Easy Cash')
-#st.image("https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg")
+#image = Image.open("https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg")
+#st.image(image, caption='Think EmzyCash, Think Easy Cash')
+st.image("https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg", caption='Think EmzyCash, Think Easy Cash')
 # Caption
 st.write("""
 # EmzyCash:
