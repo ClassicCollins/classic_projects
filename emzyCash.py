@@ -41,7 +41,7 @@ time past.
 Enter a **ticker symbol** of any of the company you wished you had invested in the text box.(only for companies listed on Yahoo finance eg. **GOOGL** for Google, **TSLA** for Tesla, 
 **AAPL** for Apple, etc. Use the slider to choose a **time interval** adjust the time to suit interval you want to observe.(Time you wished you had invested in the company)
 
-Note: You can link a brokerage account in Yahoo Finance for web. Once done, you can buy or sell stock in Yahoo Finance for web.
+**Note:** You can link a brokerage account in Yahoo Finance for web. Once done, you can buy or sell stock in Yahoo Finance for web.
 """)
 
 timeChoices = {'Daily':['Days',365,'1d'],'Weekly':['Weeks',104,'1wk'],'Monthly':['Months',60,'1mo'],'Quarterly':['Quarters',48,'3mo']}
