@@ -88,6 +88,7 @@ Shown are the stock price **Opening**, **Closing**, **High**, **Low**, **Summary
 st.write("""
 ### Opening Price
 """)
+st.line_chart(tickerDf.Open)
 
 
 #High Price graphed
