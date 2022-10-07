@@ -7,6 +7,8 @@ from matplotlib import pyplot as plt
 
 st.write("""
 # EmzyCash
+Inline-style: 
+![alt text]( "Data scientist/Geoscientist")
 This is an investment platform that fascinates your interest on investment on financial asset such as stocks, bonds, 
 options, forex & cryptos. This app is designed basically for stock investment.
 
