@@ -9,7 +9,7 @@ st.write("""
 # EmzyCash
 This is an investment platform that fascinates your interest on investment on financial asset such as stocks, bonds, 
 options, forex & cryptos. This app is designed basically for stock investment:
-[CEO](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Data scientist/Geoscientist")
+(https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Data scientist/Geoscientist")
 
 \
 I know you will like to invest in stock, sure! everybody would but knowing the right stock and when to buy can be very 
