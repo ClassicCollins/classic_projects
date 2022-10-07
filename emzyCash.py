@@ -22,7 +22,8 @@ your worry.Well, it depends on a lot of factors
 1. **Your risk appetite:** stock is less risky asset than crypto but more risky than bond.However,you should understand the higher the risk of loosing your investment, the higher the chances of doubling your investment.
 \
 
-2. **Your Age:** when you are young, we suggest 90% of your investment fund in stocks is good, and 10% in bonds.Crypto may come in depending on your risk appetite. As you approach retirement, increase your allocation to bonds.
+2. **Your Age:** when you are young, we suggest 90% of your investment fund in stocks is good, and 10% in bonds. Options, Forex and Cryptos can make up your portflio depending on how knowledgeble you are and your risk appetite. 
+As you approach retirement, increase your allocation to bonds. The more diverse your portfolio is the better your investment plan.
 \
 
 3. **Timing:** we observed many people invest during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high. The great thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
