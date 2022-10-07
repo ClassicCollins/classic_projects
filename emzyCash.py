@@ -118,7 +118,7 @@ You would have made a profit or loss of $%.2f multiplied by the number of shares
 
 Assuming you bought 100 shares of %s ,. You would have made $%.2f in your investment between the time you selected and now. You can go back to the chart and observe a longer timeframe by sliding on timeslider to a quarterly position. 
 
-Contact us @ ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit.  
+Contact us @ ugwuozorcollinsemezie@gmail.com to minimize your losses and maximize your profit. [click here]: https://www.linkedin.com/in/collins-ugwuozor-48791a15 to folow us on LinkedIn
 """ % (gain,tickerDf.Close[0],companyName,companyName,profit_n_loss))
 
 #Volume graphed
