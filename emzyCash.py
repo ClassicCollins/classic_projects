@@ -13,27 +13,31 @@ from matplotlib import pyplot as plt
 st.image("emzyCash_background.jpg", caption='Think Easy Cash, Think EmzyCash', width=600, use_column_width= "always")
 # Caption
 st.write("""
-# EmzyCash:
-This is an investment platform that fascinates your interest on investment on financial asset such as stocks, bonds, 
-options, forex & cryptos. This web app is designed basically for stock investment:
+# EmzyCash:[Stocks](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for Investment in Stocks"), [Bonds](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Bond"),
+[Options](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Options"),[Forex](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Forex"),[Crypto](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in cryptos"),
+
+This is an investment platform that is designed to ignite your interest on financial asset investment such as stocks, bonds, 
+options, forex & cryptos. This web app is designed primariry for financial assets.:
 [Click here to see CEO Profile Pic](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Data scientist/Geoscientist")
 
 \
-I know you will like to invest in stock, sure! everybody would but knowing the right stock and when to buy can be very 
-tasking.That's why we created this platform to hold you by the hands and walk your though the rough road of investment.
-Fell free to contact us at **ugwuozorcollinsemezie@gmail.com**
+Have you invested in stock before? Well, no matter what your answer is, this platform is designed to help you through the investment process.
+knowing the right stock and when to buy can be very tasking.That's why we created this platform to hold you by the hands and walk your though the rough road of investment.
+
+Feel free to contact us at **ugwuozorcollinsemezie@gmail.com**
 
 \
-If you are still in doubt,not sure if stock is the right investment for you.Never worry, we do our best to clear
-your worry.Well, it depends on a lot of factors
+If you are still in doubt,not sure if stock is the right investment for you. Don't worry, you are at the right space.
+
+There are some factores that are to be considered when going for stock investment
 \
-1. **Your risk appetite:** stock is less risky asset than crypto but more risky than bond.However,you should understand the higher the risk of loosing your investment, the higher the chances of doubling your investment.
+1. **Your risk appetite:** stock is less risky asset than crypto but riskier than bond.However,you should understand the higher the investment risk, the more likely it is for you to make good returns on your investment.
 \
 
-2. **Your Age:** when you are young, we suggest 90% of your investment fund in stocks is good, and 10% in bonds. Options, Forex and Cryptos can make up your portflio depending on how knowledgeble you are and your risk appetite. As you approach retirement, increase your allocation to bonds. The more diverse your portfolio is the better your investment plan.
+2. **The Age Factor:** for younger investors, we suggest that 90% of your investment fund should be in stocks, and 10% in bonds. Options, Forex and Cryptos can make up your portflio depending on how knowledgeble you are and your risk appetite. As you approach retirement, increase your allocation to bonds and less risky. The more diverse your portfolio is the better your investment plan.
 \
 
-3. **Timing:** we observed many people invest during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high. The great thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
+3. **Timing:** It is an existing fact that many people invest(buy) during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high. The great thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
 \
 
 4. **Picking the right stock:** This is where you need professional services. Both fundamental and technical analysis need to be carried out. 
