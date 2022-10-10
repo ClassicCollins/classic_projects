@@ -13,8 +13,7 @@ from matplotlib import pyplot as plt
 st.image("emzyCash_background.jpg", caption='Think Easy Cash, Think EmzyCash', width=600, use_column_width= "always")
 # Caption
 st.write("""
-# EmzyCash:[Stocks](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for Investment in Stocks"), [Bonds](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Bond"),
-[Options](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Options"),[Forex](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Forex"),[Crypto](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in cryptos"),
+# EmzyCash:[Stocks](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for Investment in Stocks"), [Bonds](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Bond"),[Options](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Options"),[Forex](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in Forex"),[Crypto](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Click for investment in cryptos"),
 
 This is an investment platform that is designed to ignite your interest on financial asset investment such as stocks, bonds, 
 options, forex & cryptos. This web app is designed primariry for financial assets.:
