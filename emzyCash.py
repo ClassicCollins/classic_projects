@@ -18,29 +18,28 @@ st.write("""
 
 This is an investment platform that is designed to ignite your interest on financial asset investment such as stocks, bonds, 
 options, forex & cryptos. This web app is designed primariry for financial assets.:
-[Click here to see CEO Profile Pic](https://github.com/ClassicCollins/classic_projects/blob/Python_projects/profile_pic.jpg "Data scientist/Geoscientist")
 
 \
-Have you invested in stock before? Well, no matter what your answer is, this platform is designed to help you through the investment process.
-knowing the right stock and when to buy can be very tasking.That's why we created this platform to hold you by the hands and walk your though the rough road of investment.
+Have you invested in financial asset before? Well, no matter what your answer is, this platform is designed to help you through the investment process.
+knowing the right asset,quantity and when to buy can be very tasking.That's why we created this platform to hold you by the hands and walk your though the rough road of investment.
 
 Feel free to contact us at **ugwuozorcollinsemezie@gmail.com**
 
 \
-If you are still in doubt,not sure if stock is the right investment for you. Don't worry, you are at the right space.
+If you are still in doubt,not sure if financial assets is the right investment for you. Don't worry, you are at the right space.
 
-There are some factores that are to be considered when going for stock investment
+There are some factores that are to be considered when going for fanacial asset investment
 \
 1. **Your risk appetite:** stock is less risky asset than crypto but riskier than bond.However,you should understand the higher the investment risk, the more likely it is for you to make good returns on your investment.
 \
 
-2. **The Age Factor:** for younger investors, we suggest that 90% of your investment fund should be in stocks, and 10% in bonds. Options, Forex and Cryptos can make up your portflio depending on how knowledgeble you are and your risk appetite. As you approach retirement, increase your allocation to bonds and less risky. The more diverse your portfolio is the better your investment plan.
+2. **The Age Factor:** for younger investors, we suggest that 90% of your investment fund should be in stocks, and 10% in bonds. Options, Forex and Cryptos can make up your portflio depending on how knowledgeble you are and your risk appetite. As you approach retirement, increase your allocation to bonds and less risky assets. The more diverse your portfolio is the better your investment plan.
 \
 
-3. **Timing:** It is an existing fact that many people invest(buy) during bull markets (when stock market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high. The great thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
+3. **Timing:** It is an existing fact that many people invest(buy) during bull markets (when financial market is booming) and sell during crashes(bearish market). Avoid this mistake. Buy when the market is low and sell when the market is high. The great thing with getting the timing right is that you can benefit from market crashes. We also encourage investing on the side for long-term growth.
 \
 
-4. **Picking the right stock:** This is where you need professional services. Both fundamental and technical analysis need to be carried out. 
+4. **Picking the right asset:** This is where you need professional services. Both fundamental and technical analysis need to be carried out. We also try to understand or client need before making a choice of an asset to invest. 
 
 There are a lot of other factors which cannot be discussed in details here. 
 feel free to connect with us **ugwuozorcollinsemezie@gmail.com** or whatsapp **+2348180094419**
