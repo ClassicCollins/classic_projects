@@ -14,6 +14,9 @@ This app performs simple webscraping of NBA player stats data!
 * **Data source:** [Basketball-reference.com](https://www.basketball-reference.com/).
 * **More Info:** Contact ugwuozorcollinsemezie@gmail.com 
 """)
+st.write("""
+[**LinkedIn**](https://www.linkedin.com/in/collins-ugwuozor-48791a15 "Linkedin Homepage")
+""")
 
 st.sidebar.header('User Input Features')
 selected_year = st.sidebar.selectbox('Year', list(reversed(range(1950,2023))))
