@@ -9,8 +9,10 @@ st.title('NBA Player Stats Explorer')
 
 st.markdown("""
 This app performs simple webscraping of NBA player stats data!
+* **NBA PLayers Statistics:** gives you stats of NBA Players from 1950 - 2022
 * **Python libraries:** base64, pandas, streamlit
 * **Data source:** [Basketball-reference.com](https://www.basketball-reference.com/).
+* **More Info:** Contact ugwuozorcollinsemezie@gmail.com 
 """)
 
 st.sidebar.header('User Input Features')
